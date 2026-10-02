@@ -1,0 +1,6 @@
+{
+  "name": "BioForge: Central Dogma Simulator",
+  "description": "Interactive molecular biology simulator modeling DNA transcription to mRNA, codon translation to amino acid peptide chains, and point mutation classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
